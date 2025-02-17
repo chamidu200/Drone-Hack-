@@ -2,6 +2,8 @@ Wi-Fi adapter එකක් භාවිතා කරලා **Wi-Fi-controlled dr
 
 ---
 
+<p align="center"> <img src="https://github.com/chamidu200/Drone-Hack-/blob/bd1f26d202a029bec1012f000adb353731170a5d/Drones.jpg" alt="chamidu200" /> </p>
+
 ## **🔍 Step 1: Drone එක Scan කිරීම (Wi-Fi Hunting)**  
 Wi-Fi adapter එක **monitor mode** එකට set කරලා nearby drones scan කළ හැක.  
 
