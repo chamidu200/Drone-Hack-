@@ -80,4 +80,3 @@ telnet <DRONE_IP>
 🚨 **Unauthorized access to a drone is illegal in most countries.**  
 මෙය **CTF challenges, cybersecurity research, and ethical pentesting** සඳහා පමණක් භාවිතා කරන්න. Unauthorized hacking **FAA, FCC, GDPR laws වලට එරෙහි වේ**.  
 
-##### **මොනට Ethical Drone Hacking / Cybersecurity Research කරන්න පුළුවන්ද?** 🚀
